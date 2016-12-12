@@ -1,2 +1,0 @@
-# phurl
-PHP Url Shortener
